@@ -3,27 +3,27 @@ layout: page
 title: CV
 ---
 
-## Anew Guy
+## Katie Morrice
 - http://yourwebsite.com
-- 123 Fake Street
-- Portland, OR 97213
-- 555-555-5555
-- your.email@address.com
+- 7903 SE 17th Ave.
+- Portland, OR 97202
+- 503-475-0924
+- kmorrice@gmail.com
 
 ### Personal summary
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> My research interests are environmental science and policy, natural resource management, modeling of the environment and ecosystems, and climate change adaptation. Outside of my academic interests, I am interested in gardening, fermentation, exploring the Pacific Northwest, reading sci-fi, and contemplating the future and technology.
 
 ### Education
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- Ph.D.    Environmental Science & Engineering (in progress), Oregon Health & Science University, Portland, OR 
+- M.S.     Marine Science, Moss Landing Marine Laboratories, Moss Landing, CA
+- B.A.     Biology, Marine Science Minor, Smith College, Northampton, MA
 
 ### Technical
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+- Intermediate: Python, Matlab, R
+- Basic: FORTRAN
 
 ### Employment
 
